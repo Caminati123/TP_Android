@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP Android</string>
+    <string name="btnNextPage">Next page</string>
+    <string name="btnReplaySound">Replay sound</string>
+    <string name="btnChangeStyle">Change style</string>
+    <string name="strMessageSaved">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Incididunt ut labore et dolore magna aliqua.</string>
+</resources>
